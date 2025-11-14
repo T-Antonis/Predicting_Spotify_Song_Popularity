@@ -9,7 +9,7 @@ The project includes:
 - Training and comparison of multiple ML models
 - Hyperparameter tuning with GridSearchCV
 - Evaluation using F1-score, precision, recall, and confusion matrices
-- Final selection of the best-performing model (Random Forest)
+- Final selection of the best-performing model 
 - Which attributes affect the popularity of a track
 
 
