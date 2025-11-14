@@ -5,12 +5,13 @@ This project explores the relationship between features and song's popularity an
 Multiple models were trained and compared, with emphasis on interpretability and robustness across different data splits.
 
 The project includes:
+- Which attributes affect the popularity of a track through Exploratory Data Analysis
 - Data preprocessing
 - Training and comparison of multiple ML models
 - Hyperparameter tuning with GridSearchCV
 - Evaluation using F1-score, precision, recall, and confusion matrices
 - Final selection of the best-performing model 
-- Which attributes affect the popularity of a track
+  
 
 
 
