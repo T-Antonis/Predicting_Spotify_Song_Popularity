@@ -1,4 +1,4 @@
-# Spotify Track Popularity Classification
+# Predicting Spotify Song Popularity
 
 ## Overview
 This project explores the relationship between features and song's popularity and the classification of Spotify tracks into two popularity categories using machine learning methods. 
